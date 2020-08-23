@@ -1,4 +1,4 @@
-![Title Image](titleImage.png)
+![Title Image](https://github.com/thorx2/thorx2/blob/master/titleImage.png)
 ### Hi there 👋
 
 Gaudham here, I am you everyday average game programmer, my portfolio look empty because I procrastinate a lot. Trying to change my ways here.
