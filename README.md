@@ -1,4 +1,3 @@
-![Title Image](https://github.com/thorx2/thorx2/blob/master/titleImage.png)
 ### Hi there 👋
 
 Gaudham here, I am you everyday average game programmer, my portfolio look empty because I procrastinate a lot. Trying to change my ways here.
@@ -26,7 +25,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 Title image credits:<br>
 _Image by <a href="https://pixabay.com/users/pinwhalestock-13691058/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4518354">Kevin Sanderson</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4518354">Pixabay</a>_
+
+-->
