@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-Gaudham here, I am you everyday average game programmer, my portfolio look empty because I procrastinate a lot. Trying to change my ways here.
+Gaudham here, I am your everyday average game programmer, my portfolio look empty because I procrastinate a lot. Trying to change my ways here.
 
-Oh and I also dabble in some cross platfrom app development using Flutter.
-##### Skills
-- C++
-- C#
+![ThorX's github stats](https://github-readme-stats.vercel.app/api?username=thorx2&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thorx2&theme=buefy&layout=compact)
 
 ##### Open for
 - Game jams
