@@ -2,6 +2,8 @@
 
 Gaudham here, I am your everyday average game programmer, my portfolio look empty because I procrastinate a lot. Trying to change my ways here.
 
+![Discord](https://img.shields.io/discord/751826048689373184?label=chat)
+
 ![ThorX's github stats](https://github-readme-stats.vercel.app/api?username=thorx2&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thorx2&theme=buefy&layout=compact)
