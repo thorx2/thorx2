@@ -12,6 +12,8 @@ Gaudham here, I am your everyday average game programmer, my portfolio look empt
 - Game jams
 - Co-lab coding on open source projects
 
+Working on small indi stuff at [Innocent Sign Inn](https://github.com/Innocent-Sign-Inn)
+
 <!--
 **thorx2/thorx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
