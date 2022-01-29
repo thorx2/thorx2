@@ -2,8 +2,6 @@
 
 Gaudham here, I am your everyday average game programmer, my portfolio look empty because I procrastinate a lot. Trying to change my ways here.
 
-![Discord](https://img.shields.io/discord/751826048689373184?label=chat)
-
 ![ThorX's github stats](https://github-readme-stats.vercel.app/api?username=thorx2&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thorx2&theme=buefy&layout=compact)
@@ -12,7 +10,8 @@ Gaudham here, I am your everyday average game programmer, my portfolio look empt
 - Game jams
 - Co-lab coding on open source projects
 
-Working on small indi stuff at [Innocent Sign Inn](https://github.com/innocentsigninn)
+Working on small indi stuff at [Innocent Sign Inn](https://github.com/innocentsigninn) \
+![Twitter Follow](https://img.shields.io/twitter/follow/gaudham007)
 
 <!--
 **thorx2/thorx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
