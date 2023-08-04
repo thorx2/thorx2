@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Gaudham here, I am your everyday average game programmer, my portfolio look empty because I procrastinate a lot. Trying to change my ways here.
+An everyday average game programmer who has the least happening portfolio since I procrastinate a lot. _(Trying to change my ways here)_
 
 ![ThorX's github stats](https://github-readme-stats.vercel.app/api?username=thorx2&show_icons=true&theme=radical)
 
@@ -8,11 +8,9 @@ Gaudham here, I am your everyday average game programmer, my portfolio look empt
 
 ##### Open for
 - Game jams
-- Co-lab coding on open source projects
+- Co-lab coding on open-source projects
 
-Working on small indi stuff at [Innocent Sign Inn](https://github.com/innocentsigninn) \
-![Twitter Follow](https://img.shields.io/twitter/follow/gaudham007?style=flat-square)
-![Discord Room](https://img.shields.io/discord/751826048689373184?style=flat-square)
+Working on small indi stuff at [Innocent Sign Inn](https://github.com/innocentsigninn)
 
 <!--
 **thorx2/thorx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
