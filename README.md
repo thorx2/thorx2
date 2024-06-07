@@ -2,6 +2,8 @@
 
 An everyday average game programmer who has the least happening portfolio since I procrastinate a lot. _(Trying to change my ways here)_
 
+[![wakatime](https://wakatime.com/badge/user/06bfe319-4dbc-4a64-bd61-a81d3d1a21fb.svg)](https://wakatime.com/@06bfe319-4dbc-4a64-bd61-a81d3d1a21fb)
+
 ![ThorX's github stats](https://github-readme-stats.vercel.app/api?username=thorx2&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thorx2&theme=buefy&layout=compact)
